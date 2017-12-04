@@ -1,0 +1,19 @@
+run:
+1	First Name: John	Last Name: Smith	Age: 20		Email Address: John1989@gmail.com	Grades:{88, 79, 59}
+2	First Name: Suzan	Last Name: Erickson	Age: 19		Email Address: Erickson_1990@gmailcom	Grades:{91, 72, 85}
+3	First Name: Jack	Last Name: Napoli	Age: 19		Email Address: The_lawyer99yahoo.com	Grades:{85, 84, 87}
+4	First Name: Erin	Last Name: Black	Age: 22		Email Address: Erin.black@comcast.net	Grades:{91, 98, 82}
+5	First Name: Austin	Last Name: Smith	Age: 24		Email Address: asmi817@wgu.com	Grades:{99, 97, 88}
+
+Invalid Email Address: 
+Erickson_1990@gmailcom
+The_lawyer99yahoo.com
+ 
+Student ID: 1	 Average Grade:	75.33
+Student ID: 2	 Average Grade:	82.67
+Student ID: 3	 Average Grade:	85.33
+Student ID: 4	 Average Grade:	90.33
+Student ID: 5	 Average Grade:	94.67
+
+ERROR -------> StudentID: 3 is not found.
+BUILD SUCCESSFUL (total time: 0 seconds)
